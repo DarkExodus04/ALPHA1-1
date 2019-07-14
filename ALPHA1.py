@@ -11,7 +11,12 @@ pairs = [
     [
         'hi',"Kon'nichiwa,that's hello in japanese !  How may I help"
     ],
-
+    [
+        'what is your name ?',"My name is Alpha"
+    ],
+    [
+        'What is your age',"I am a just born program created by ONE"
+    ],
 ]
 
 engine = pyttsx3.init('sapi5')
